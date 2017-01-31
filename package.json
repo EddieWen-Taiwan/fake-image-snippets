@@ -1,0 +1,21 @@
+{
+  "name": "fake-image-sublime-snippets",
+  "version": "1.0.0",
+  "description": "Fake image please! snippets for Sublime",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EddieWen-Taiwan/fake-image-snippets.git"
+  },
+  "keywords": [
+    "fake-image",
+    "img",
+    "sublime",
+    "snippets"
+  ],
+  "author": "Eddie Wen <eddiewen.tw@gmail.com> (http://eddiewen.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieWen-Taiwan/fake-image-snippets/issues"
+  },
+  "homepage": "https://github.com/EddieWen-Taiwan/fake-image-snippets#readme"
+}
