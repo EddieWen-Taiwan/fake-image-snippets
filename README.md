@@ -6,7 +6,7 @@ This is snippets for set `<img>` placeholder with [fakeimg](https://fakeimg.pl/)
 
 ## Install
 
-Search `fake-image-snippets` on package control
+Search `FakeImage` on package control a few days later (It's not ready now)
 
 ## Documentation
 
