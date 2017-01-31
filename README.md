@@ -6,7 +6,7 @@ This is snippets for set `<img>` placeholder with [fakeimg](https://fakeimg.pl/)
 
 ## Install
 
-Search `FakeImage` on package control a few days later (It's not ready now)
+Search `FakeImage` on package control a few days later ([ PR#6112 ](https://github.com/wbond/package_control_channel/pull/6112))
 
 ## Documentation
 
